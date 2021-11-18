@@ -1,4 +1,4 @@
-# dbmsLab11
+# dbmsLab12
 
 follow the tutorial for making php work for mongodb & also for downloading composer file:
 
