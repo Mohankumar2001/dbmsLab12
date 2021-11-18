@@ -11,4 +11,8 @@ https://pecl.php.net/package/mongodb/1.11.1/windows
 add the mongodb.dll file into mongodb/php/ext folder
 ]
 
-To run go to localhost/[your folder name]
+Run xampp and mongodb
+
+create a database billing and 4 tables - cashier, customer, product, transaction in mongodb
+
+To run the project go to localhost/[your folder name]/index.php
