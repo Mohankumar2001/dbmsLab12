@@ -7,8 +7,9 @@ https://www.youtube.com/watch?v=9gEPiIoAHo8&list=PLC3y8-rFHvwiXX1maB5o-CZAIHy4I_
 [
 download threadsafe x64 from:
 https://pecl.php.net/package/mongodb/1.11.1/windows
+as shown in the tutorial
 
-add the mongodb.dll file into mongodb/php/ext folder
+add the mongodb.dll file into mongodb/php/ext folder as shown in the tutorial
 ]
 
 Run xampp and mongodb
