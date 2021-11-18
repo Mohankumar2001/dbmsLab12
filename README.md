@@ -1,6 +1,7 @@
 # dbmsLab11
 
-follow the tutorial for making php work for mongodb:
+follow the tutorial for making php work for mongodb & also for downloading composer file:
+
 https://www.youtube.com/watch?v=9gEPiIoAHo8&list=PLC3y8-rFHvwiXX1maB5o-CZAIHy4I_ILv&index=1
 
 [
